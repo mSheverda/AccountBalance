@@ -1,0 +1,11 @@
+/home/jcrm/proj/pet/books_original/models2/src/main/java/com/transactions/model/Transaction.java
+/home/jcrm/proj/pet/books_original/models2/src/main/java/com/transactions/services/AccountService.java
+/home/jcrm/proj/pet/books_original/models2/src/main/java/com/transactions/model/Account.java
+/home/jcrm/proj/pet/books_original/models2/src/main/java/com/transactions/services/TransactionService.java
+/home/jcrm/proj/pet/books_original/models2/src/main/java/com/transactions/controller/AppController.java
+/home/jcrm/proj/pet/books_original/models2/src/main/java/com/transactions/repository/AccountReposiroty.java
+/home/jcrm/proj/pet/books_original/models2/src/main/java/com/transactions/repository/TransactionRepository.java
+/home/jcrm/proj/pet/books_original/models2/src/main/java/com/transactions/Application.java
+/home/jcrm/proj/pet/books_original/models2/src/main/java/com/transactions/configs/AppConfig.java
+/home/jcrm/proj/pet/books_original/models2/src/main/java/com/transactions/services/AccountServiceImpl.java
+/home/jcrm/proj/pet/books_original/models2/src/main/java/com/transactions/services/TransactionServiceImpl.java
